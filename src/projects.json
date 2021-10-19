@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "e-commerce",
+    "category": "backend",
+    "github": "https://github.com/Miguel-Con-Queso/e-commerce.git"
+  },
+
+  {
+    "id": 2,
+    "name": "socialMediaAPI",
+    "category": "backend",
+    "github": "https://github.com/Miguel-Con-Queso/socialMediaAPI.git"
+  },
+
+  {
+    "id": 3,
+    "name": "run-buddy",
+    "category": "frontend",
+    "github": "https://github.com/Miguel-Con-Queso/run-buddy.git"
+  },
+
+  {
+    "id": 4,
+    "name": "robot-gladiators",
+    "category": "frontend",
+    "github": "https://github.com/Miguel-Con-Queso/robot-gladiators.git"
+  },
+
+  {
+    "id": 5,
+    "name": "RPGsAnonymous",
+    "category": "personal",
+    "github": "https://github.com/Miguel-Con-Queso/RPGsAnonymous.git"
+  },
+
+  {
+    "id": 6,
+    "name": "MartiansOnly",
+    "category": "personal",
+    "github": "https://github.com/Miguel-Con-Queso/MartiansOnly.git"
+  }
+]
