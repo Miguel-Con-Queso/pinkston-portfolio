@@ -3,7 +3,7 @@ import profilePic from "../../assets/profilePic.jpg";
 
 function About() {
   return (
-    <section className="container">
+    <section className="container aboutSection mw-100">
       <h1 id="aboutTitle">About Me</h1>
       <div>
         <p>

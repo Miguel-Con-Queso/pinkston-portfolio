@@ -9,7 +9,7 @@ function Wrapper(props) {
 
 function Portfolio() {
   return (
-    <section className="container">
+    <section className="container portfolioSection mw-100">
       <div className="project">
         <h1 className="title">My Projects</h1>
       </div>

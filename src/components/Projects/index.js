@@ -23,7 +23,7 @@ function ProjectCards(props) {
           <p id="topics">[{props.topics}]</p>
           <a href={props.github}>
             <img
-              src="../../assets/imgs/GitHubCard.png"
+              src="https://img.icons8.com/ios-glyphs/30/000000/github.png"
               alt="Github Repository"
               id="projectIcon"
             />
