@@ -40,7 +40,7 @@ function Contact() {
   };
 
   return (
-    <section className="container">
+    <section className="container contactSection mw-100 mh-100">
       <h1 className="contactTitle">Contact Me</h1>
       <form className="justify-conent-center" id="contactForm">
         <div className="mt-5">
@@ -80,7 +80,7 @@ function Contact() {
         )}
         <div className="mt-5 mb-5">
           <button
-            className="btn btn-outline-dark"
+            className="btn btn-outline-dark btn-primary"
             data-testid="button"
             type="submit"
             onSubmit={handleSubmit}

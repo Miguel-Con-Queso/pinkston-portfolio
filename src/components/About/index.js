@@ -1,9 +1,16 @@
 import React from "react";
 import profilePic from "../../assets/profilePic.jpg";
+import momo from "../../assets/momo.jpg";
 
 function About() {
   return (
-    <section className="container aboutSection mw-100">
+    <section className="container aboutSection mw-100 mh-100">
+      <img
+        src={profilePic}
+        className="profilePic"
+        style={{ width: "10%" }}
+        alt="Michael Pinkston"
+      />
       <h1 id="aboutTitle">About Me</h1>
       <div>
         <p>
@@ -13,16 +20,11 @@ function About() {
           Mongoose. For fun, I enjoy reading, gaming, kayaking, and traveling! I
           have a B.A. from Johnson University, an M.Div. from Milligan
           University, and a web-development certificate from Vanderbilt
-          University. If you wish to speak, scroll down to the contact section
-          and reach out!
+          University. Also, I love my cat, Momo! If you wish to speak, navigate
+          to the contact section and reach out!
         </p>
-        <img
-          src={profilePic}
-          className="profilePic"
-          style={{ width: "15%" }}
-          alt="Michael Pinkston"
-        />
       </div>
+      <img src={momo} className="momo" style={{ width: "10%" }} alt="Momo" />
     </section>
   );
 }
