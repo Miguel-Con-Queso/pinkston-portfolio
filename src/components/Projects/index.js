@@ -21,20 +21,20 @@ function ProjectCards(props) {
         </p>
         <div id="iconContainer">
           <p id="topics">[{props.topics}]</p>
-          <a href={props.github}>
+          <a href={props.github} target="_blank">
             <img
               src="https://img.icons8.com/ios-glyphs/30/000000/github.png"
               alt="Github Repository"
               id="projectIcon"
             />
           </a>
-          {/* <a href={props.deploy}>
+          <a href={props.deploy} target="_blank">
             <img
-              src="https://img.icons8.com/color/48/000000/launchpad--v1.png"
-              alt="Live Application"
-              id="project-icon"
+              src="https://img.icons8.com/color/30/000000/launched-rocket--v2.png"
+              alt="Deployed Application"
+              id="projectIcon"
             />
-          </a> */}
+          </a>
         </div>
       </div>
     </div>

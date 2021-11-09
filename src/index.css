@@ -261,6 +261,7 @@ textarea {
   align-items: center;
   justify-content: center;
   bottom: 0;
+  height: 10%;
   width: 100%;
   position: fixed;
 }

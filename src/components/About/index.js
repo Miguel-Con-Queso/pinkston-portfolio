@@ -20,8 +20,9 @@ function About() {
           Mongoose. For fun, I enjoy reading, gaming, kayaking, and traveling! I
           have a B.A. from Johnson University, an M.Div. from Milligan
           University, and a web-development certificate from Vanderbilt
-          University. Also, I love my cat, Momo! If you wish to speak, navigate
-          to the contact section and reach out!
+          University. Also, I love my cat, Momo! If you wish to speak, either
+          click the email icon bellow or navigate to the contact section and
+          reach out!
         </p>
       </div>
       <img src={momo} className="momo" style={{ width: "10%" }} alt="Momo" />

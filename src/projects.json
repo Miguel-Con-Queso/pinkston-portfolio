@@ -1,53 +1,59 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "name": "e-commerce",
     "category": "backend",
+    "deploy": "https://drive.google.com/file/d/1cvb-5cGYwB3fTcLSXjZWt1M0FRTCR2RW/view",
     "github": "https://github.com/Miguel-Con-Queso/e-commerce.git",
     "image": "https://github.com/Miguel-Con-Queso/pinkston-portfolio/blob/main/src/assets/projectPics/Backend/e-commerce.png?raw=true",
     "topics": "Express.js, MySQL, Sequelize, ORM, and Node.js"
   },
 
   {
-    "id": 2,
+    "id": 1,
     "name": "socialMediaAPI",
     "category": "backend",
+    "deploy": "https://drive.google.com/file/d/1tMcVW0nSrRrcQNvt2yxYXX9F17nQbWee/view?usp=sharing",
     "github": "https://github.com/Miguel-Con-Queso/socialMediaAPI.git",
     "image": "https://github.com/Miguel-Con-Queso/pinkston-portfolio/blob/main/src/assets/projectPics/Backend/socialMediaAPI.png?raw=true",
     "topics": "Mongoose, MongoDB, Express.js, Node.js, and NoSQL"
   },
 
   {
-    "id": 3,
+    "id": 2,
     "name": "run-buddy",
     "category": "frontend",
+    "deploy": "https://miguel-con-queso.github.io/run-buddy/",
     "github": "https://github.com/Miguel-Con-Queso/run-buddy.git",
     "image": "https://github.com/Miguel-Con-Queso/pinkston-portfolio/blob/main/src/assets/projectPics/Frontend/run-buddy.png?raw=true",
     "topics": "HTML5, CSS, and JavaScript"
   },
 
   {
-    "id": 4,
+    "id": 3,
     "name": "robot-gladiators",
     "category": "frontend",
+    "deploy": "https://miguel-con-queso.github.io/robot-gladiators/",
     "github": "https://github.com/Miguel-Con-Queso/robot-gladiators.git",
     "image": "https://github.com/Miguel-Con-Queso/pinkston-portfolio/blob/main/src/assets/projectPics/Frontend/robot-gladiators.png?raw=true",
     "topics": "JavaScript"
   },
 
   {
-    "id": 5,
+    "id": 4,
     "name": "RPGsAnonymous",
     "category": "personal",
+    "deploy": "https://miguel-con-queso.github.io/RPGsAnonymous/",
     "github": "https://github.com/Miguel-Con-Queso/RPGsAnonymous.git",
     "image": "https://github.com/Miguel-Con-Queso/pinkston-portfolio/blob/main/src/assets/projectPics/Personal/RPGsAnonymous.png?raw=true",
     "topics": "HTML5, CSS, JavaScript, (soon to be transitioned to a React SPA)"
   },
 
   {
-    "id": 6,
+    "id": 5,
     "name": "MartiansOnly",
     "category": "personal",
+    "deploy": "https://miguel-con-queso.github.io/MartiansOnly/",
     "github": "https://github.com/Miguel-Con-Queso/MartiansOnly.git",
     "image": "https://github.com/Miguel-Con-Queso/pinkston-portfolio/blob/main/src/assets/projectPics/Personal/MartiansOnly.png?raw=true",
     "topics": "HTML, CSS, JavaScript, and NASA APIs"
